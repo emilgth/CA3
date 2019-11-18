@@ -7,7 +7,7 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.ext.Provider;
 import java.io.IOException;
 import java.util.logging.Logger;
-
+//travis comment
 //Comment out these two annotations below to disable CORS-handling
 @Provider  //This will ensure that the filter is used "automatically"
 @PreMatching
